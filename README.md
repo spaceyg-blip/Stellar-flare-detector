@@ -55,4 +55,6 @@ Flare detection is useful for:
 - Feature extraction workflows
 - Future ML and XAI pipelines
 
-EV Lac is a well-known flare star with strong magnetic activity and frequent flare events observed with TESS. :contentReference[oaicite:1]{index=1}
+EV Lac is a well-known flare star with strong magnetic activity and frequent flare events observed with TESS.
+
+
